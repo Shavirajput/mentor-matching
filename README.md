@@ -24,6 +24,6 @@ A platform for mentoring and mentee matching. Users can sign up as mentors or me
 5. Open `frontend/index.html` in a browser.
 
 ## Deployment
-- [Live App URL](#)
+- [Live App URL](https://subtle-kringle-d949ce.netlify.app/)
 
    npm install
